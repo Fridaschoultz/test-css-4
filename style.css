@@ -1,0 +1,19 @@
+*{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    float: none;
+    margin:20px;
+}
+
+.wrapper{
+    margin: 100px;
+    float: left; 
+    }
+
