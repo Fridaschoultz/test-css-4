@@ -8,12 +8,12 @@ h1{
 
 img{
     width: 300px;
-    float: none;
+    float: none; 
     margin:20px;
 }
 
 .wrapper{
     margin: 100px;
-    float: left; 
+    float: left; /*Har kan du testa genom att byta ut till left,right,none eller inherit för att se vad som händer med bilden*/
     }
 
